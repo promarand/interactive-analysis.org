@@ -86,7 +86,7 @@ We are interested, more generally, in the questions that arise at the
 * Submission Deadline: July 17, 2018
 * Notifications: August 7, 2018
 * Final versions due: August 17, 2018 
-* Event: TBA
+* Workshop Date: October 21 or 22, 2018
 
 ## Paper format and submission
 
@@ -97,9 +97,9 @@ should contain only references.
 
 ## Submission
 
+Papers are 4 to 6 pages excluding references in IEEE VIS paper format. Accepted papers will be presented at the workshop and authors can choose to include their papers in the IEEE archive. In addition to their presentation, authors have the option to give a demo of their systems or tools. 
 Papers should be submitted through the
-[Precision Conference System](http://precisionconference.com/~vgtc)
-(under "New Submissions" and "VIS Workshops 2018").
+Precision Conference System (details coming soon).
 Please contact the workshop organizers at
 [organizers@interactive-analysis.org](mailto:organizers@interactive-analysis.org)
 for any questions regarding the submission process or the workshop itself.
